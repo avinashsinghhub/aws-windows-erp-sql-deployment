@@ -162,3 +162,9 @@ The ERP environment is fully operational with:
 - Cloud Monitoring & Alerting
 - Cost Optimization Strategy
 - IAM & Security Best Practices
+
+---
+
+Author: Avinash Singh  
+Cloud Architecture | AWS Infrastructure | Cost Optimization
+
