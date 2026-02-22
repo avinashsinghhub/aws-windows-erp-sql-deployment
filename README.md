@@ -22,6 +22,7 @@ The solution was implemented as a greenfield deployment to replace on-premise in
 ---
 
 ## Architecture Summary
+![Architecture Diagram](https://github.com/avinashsinghhub/aws-windows-erp-sql-deployment/blob/b0605577d40530fcfb74bed9849f4c9d170843e4/architecture/architecture-diagram.png)
 
 The infrastructure includes:
 
